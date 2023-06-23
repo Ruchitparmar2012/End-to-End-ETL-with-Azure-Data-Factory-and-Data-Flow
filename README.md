@@ -19,7 +19,7 @@ The pipeline extracts data from two JSON files, converts them to CSV format, and
 
 - [Conclusion](#Conclusion)
 
-## Project Overview
+## ProjectOverview
 
 The objective of this project is to demonstrate an end-to-end ETL process using Azure services. It involves the following steps:
 
@@ -43,7 +43,7 @@ The objective of this project is to demonstrate an end-to-end ETL process using 
    
     Once the data is joined, Azure Data Flow is used to aggregate the joined dataset. Aggregation operations such as sum, average, count, etc., can be applied to derive meaningful insights and generate summary statistics.
 
-## Project Structure
+## ProjectStructure
  
 The project repository is organized as follows:
 
@@ -59,7 +59,7 @@ The project repository is organized as follows:
   
     This directory may contain any necessary scripts used in the project, such as data validation scripts or deployment automation scripts.
 
-## Getting Started
+## GettingStarted
 
 To get started with the project, follow these steps:
 
