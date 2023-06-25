@@ -63,8 +63,6 @@ The project repository is organized as follows:
 
 To get started with the project, follow these steps:
 
-- Ensure you have an Azure subscription and the necessary permissions to create and manage Azure resources.
-
 - Set up Azure Data Factory and Azure Blob Storage accounts.
 
 - Configure the necessary connections and credentials within Azure Data Factory to access the source JSON files and the target Blob Storage container.
@@ -83,11 +81,3 @@ To get started with the project, follow these steps:
 
 
 This project demonstrates an end-to-end ETL process using Azure Data Factory and Data Flow, showcasing the extraction, transformation, and loading of data from JSON files to CSV format. Additionally, it illustrates how to leverage Data Flow for advanced transformations, including data joining and aggregation. 
-
-By following the steps outlined in the project, you can gain hands-on experience with Azure ETL capabilities and adapt them to your specific use cases.
-
-
-    
-
-
-
